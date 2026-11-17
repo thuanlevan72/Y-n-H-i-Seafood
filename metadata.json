@@ -1,0 +1,6 @@
+{
+  "name": "Hải Sản Yến Hải — Vựa Hải Sản Tươi Sống, Đông Lạnh & Đồ Khô Giá Gốc",
+  "description": "Hải Sản Yến Hải chuyên cung cấp sỉ & lẻ Mực Ống Biển Tươi, Cá Thu Phấn Cắt Khoanh Giữa, Bạch Tuộc Tươi, Bề Bề (Tôm Tít) Bóc Nõn Full Trứng và Cá Khô Rút Xương 1 Nắng. Bao ăn 1 đổi 1 tận nơi, giao hỏa tốc 1-2h.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
